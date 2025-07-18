@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+ 
+}
+
+body {
+  height: 100vh;
+  background-image: linear-gradient(to bottom right,rgb(255, 13, 0), rgb(187, 0, 255));
+}
+
+.main-div {
+  height: 400px;
+  width: 600px;
+  background-color: white;
+  position: absolute;
+  left: 25%;
+  top: 15%;
+}
+
+.main-div h1 {
+  text-align: center;
+}
+
+.main-div h3 {
+  text-align: center;
+  
+}
+
+.bor {
+  border: 1px solid black !important;
+}
+
+.icon {
+  text-align: center;
+}
+
+.buton {
+  width: 84%;
+}
